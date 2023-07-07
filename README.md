@@ -1,6 +1,6 @@
 # python-easy-keylogger
 
-This is an easy keylogger using Python. 
+This is an easy keylogger that is made using Python. 
 
 
 ## Educational purposes only; use at your own risk!
